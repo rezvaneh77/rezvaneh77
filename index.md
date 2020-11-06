@@ -7,6 +7,46 @@
 +github:rezvaneh77
 +insragram:_rezvaneh.nz_
 +telegram:1998N1377
+<br>
 
+### Quera
+
+
+<br>
+<a href="https://quera.ir/profile/rezvaneh77">rezvaneh77</a>
+
+<br>
+
+### Specifications
+
+
++ name: Rezvaneh
++ last name : Nurzayi
++ Date of birth : 1998/may/31
++ I am currently a fifth semester computer engineering student .
+
+<br>
+### Skill Highlights
+
+
++ Programming Languages(c , c++ , java)
++ Photoshop
+
+<br>
+### Education
+
+
++ Diploma : Esmat High school
+_ 2015
++ Bachelor of science : computer Engineering
+_ 2018,payam Noor University of West of Tehran Province (Shahriar)
+
+<br>
+### Language
+
+
++ Persian
++ English
++ Turkish
 
 
