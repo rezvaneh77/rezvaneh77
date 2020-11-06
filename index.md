@@ -38,7 +38,7 @@
 ### Skill Highlights
 
 
-+ Programming Languages(c , c++ , java)
++ Programming Languages(c , c++ , java , pyhton)
 + Photoshop
 
 <br>
