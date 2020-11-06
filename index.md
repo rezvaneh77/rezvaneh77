@@ -58,4 +58,7 @@ _ 2018,payam Noor University of West of Tehran Province (Shahriar)
 + English
 + Turkish
 
+<br>
+<br>
+[رزومه فارسی](/resume-fa)
 
