@@ -13,6 +13,17 @@
 <br>
 سن : ۲۲
 <br>
+### مهارت ها
+<br>
+Javascript
+ICDL1
+ICDL2
+PHOTOSHOP
+C++
+C
+Phyton
+<br>
+
 
 
 
