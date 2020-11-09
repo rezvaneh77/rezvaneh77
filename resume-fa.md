@@ -17,11 +17,11 @@
 <br>
 Javascript
 <br>
-ICDL1
+ICDL1 (آموزشگاه فنی و حرفه ای تهران)
 <br>
-ICDL2
+ICDL2 (آموزشگاه فنی و حرفه ای تهران)
 <br>
-PHOTOSHOP
+PHOTOSHOP (آموزشگاه فنی و حرفه ای تهران)
 <br>
 C++
 <br>
