@@ -2,7 +2,7 @@
 ### RezvanehNurzayi
 <img src="http://s15.picofile.com/file/8409825218/MYXJ_20201003000232292_save.jpg">
 ### Sidebar links
-+ Instagram : Instagram : <a href="https://instagram.com/_rezvaneh.nz_?igshid=ec71hpahsz5q">https://instagram.com/_rezvaneh.nz_?igshid=ec71hpahsz5q</a>
++ Instagram : <a href="https://instagram.com/_rezvaneh.nz_?igshid=ec71hpahsz5q">https://instagram.com/_rezvaneh.nz_?igshid=ec71hpahsz5q</a>
 + Email: <a href="rrrnnn.1377@gmail.com">rrrnnn.1377@gmail.com</a>
 + phone: 09059414781
 + telegram: <a herf="https://t.me/BlueeAngel">BlueeAngel</a>
