@@ -27,7 +27,6 @@
 
 <br>
 [رزومه فارسی](/resume-fa)
-
 <br>
 ### Specifications
 
