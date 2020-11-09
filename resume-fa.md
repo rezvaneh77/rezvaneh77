@@ -1,6 +1,6 @@
 <img src="http://s15.picofile.com/file/8409825218/MYXJ_20201003000232292_save.jpg">
 ### مشخصات
-+ rrrnnn.1377@gmail.com:ایمیل
++ ایمیل : rrrnnn.1377@gmail.com
 + rezvaneh77:گیت هاب
 + _rezvaneh.nz_:اینستاگرام
 +  1998N1377:تلگرام
