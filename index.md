@@ -4,8 +4,8 @@
 ### Sidebar links
 + Email:rrrnnn.1377@gmail.com
 + phone:09059414781
-+ github:rezvaneh77
-+ insragram:_rezvaneh.nz_
++ github :
++ Instagram : <a href="https://instagram.com/_rezvaneh.nz_?igshid=ec71hpahsz5q"></a>
 + telegram:1998N1377
 <br>
 
