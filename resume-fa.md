@@ -16,11 +16,17 @@
 ### مهارت ها
 <br>
 Javascript
+<br>
 ICDL1
+<br>
 ICDL2
+<br>
 PHOTOSHOP
+<br>
 C++
+<br>
 C
+<br>
 Phyton
 <br>
 
