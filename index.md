@@ -26,6 +26,9 @@
 <a href="https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/">SOP</a>
 
 <br>
+[رزومه فارسی](/resume-fa)
+
+<br>
 ### Specifications
 
 
