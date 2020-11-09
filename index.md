@@ -2,11 +2,10 @@
 ### RezvanehNurzayi
 <img src="http://s15.picofile.com/file/8409825218/MYXJ_20201003000232292_save.jpg">
 ### Sidebar links
-+ Email:rrrnnn.1377@gmail.com
++ Email:Instagram : <a href="rrrnnn.1377@gmail.com"></a>
 + phone:09059414781
-+ github :
 + Instagram : <a href="https://instagram.com/_rezvaneh.nz_?igshid=ec71hpahsz5q"></a>
-+ telegram:1998N1377
++ telegram:
 <br>
 
 ### Quera
