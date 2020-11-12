@@ -9,13 +9,11 @@
 <br>
 
 ### Quera
-<br>
-<a href="https://quera.ir/profile/rezvaneh77">rezvaneh77
++ <a href="https://quera.ir/profile/rezvaneh77">rezvaneh77
 </a>
 <br>
 ### resume farsi
-<br>
-[رزومه فارسی](/resume-fa)
++ [رزومه فارسی](/resume-fa)
 <br>
 <br>
 ### Specifications
