@@ -14,15 +14,6 @@
 <br>
 <a href="https://quera.ir/profile/rezvaneh77">rezvaneh77
 </a>
-
-<br>
-### Weekly Schedule
-<br>
-<a href="https://rezvaneh77.github.io/PNU_3991_ARR/">Weekly Schedule</a>
-<br>
-### SOP
-<br>
-<a href="https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/">SOP</a>
 <br>
 ### resume farsi
 <br>
