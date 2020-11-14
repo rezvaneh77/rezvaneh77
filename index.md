@@ -27,7 +27,8 @@
 + name: Rezvaneh
 + last name : Nurzayi
 + Date of birth : 1998/may/31
-+ I am currently a fifth semester computer engineering student .
++ Computer engineering student
++ location : IRAN,TEHRAN(Shahriyar)
 
 <br>
 ### Skill Highlights
