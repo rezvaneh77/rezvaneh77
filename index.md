@@ -32,9 +32,9 @@
 <br>
 ### Skill Highlights
 
-
-+ Programming Languages(c , c++ , java , pyhton)
 + Photoshop
++ marketing
++ sell insurance life and treatment
 
 <br>
 ### Education
@@ -46,12 +46,32 @@ _ 2015
 _ 2018,payam Noor University of West of Tehran Province (Shahriar)
 
 <br>
-### Language
+### Favorites
+
+
++ travel
++ soccer
++ music
+
+<br>
+### Speaking Language
 
 
 + Persian
 + English
 + Turkish
+
+<br>
+### Programing Language
+
+
++ C
++ C++
++ Java
++ Java Script
++ Pyhton
+
+<br>
 
 
 
