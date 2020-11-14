@@ -27,7 +27,7 @@
 
 + name: Rezvaneh
 + last name : Nurzayi
-+ Date of birth : 1998/may/31
++ Date of birth : 1998/may/21
 + Computer engineering student
 + location : IRAN,TEHRAN(Shahriyar)
 
