@@ -37,8 +37,8 @@
 + Photoshop
 + marketing
 + Programming
-+ Icdl 1
-+ Icdl 2
++ ICDL 1
++ ICDL 2
 
 <br>
 ### Education
