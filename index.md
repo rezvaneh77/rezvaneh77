@@ -35,7 +35,7 @@
 
 + Photoshop
 + marketing
-+ sell insurance life and treatment
++ Programming
 
 <br>
 ### Education
