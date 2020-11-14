@@ -43,7 +43,7 @@
 
 + Diploma : Esmat High school
 _ 2015
-+ Bachelor of science : computer Engineering
++ Bachelor : computer Engineering
 _ 2018,payam Noor University of West of Tehran Province (Shahriar)
 
 <br>
